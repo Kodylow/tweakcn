@@ -50,12 +50,24 @@ Even if you don't plan to write code, there are many ways to contribute:
 - **Spread the Word:** If you like tweakcn.com, please share it with your friends, colleagues, and on social media. Helping grow the community makes the tool better for everyone.
 - **Use tweakcn.com:** The best feedback comes from real-world usage! As you use the editor, if you encounter any issues or have ideas for improvement, please let us know by creating an issue or reaching out on [Discord](https://discord.com/invite/Phs4u2NM3n).
 
+### Running on Replit
+
+You can run this project on Replit with no local setup or configuration. Replit will automatically provision and configure the required Neon database for development.
+
+1.  **Fork the Repository:** Start by creating your own copy of the [tweakcn repository](https://github.com/jnsahaj/tweakcn) on GitHub. Click the "Fork" button in the top-right corner.
+
+2.  **Import to Replit** Import the repository you just forked into Replit by going to:
+
+    `https://repl.new/github.com/YOUR_USERNAME/tweakcn.git`
+
+3.  Replit will automatically set up and run the required development environment
+
 ### Prerequisites
 
 - Node.js 18+
 - npm / yarn / pnpm
 
-### Installation
+### Local Installation
 
 1.  **Fork the Repository:** Start by creating your own copy of the [tweakcn repository](https://github.com/jnsahaj/tweakcn) on GitHub. Click the "Fork" button in the top-right corner.
 
@@ -74,7 +86,7 @@ Even if you don't plan to write code, there are many ways to contribute:
     npm install
     ```
 
-### Set up the development environment (follow closely)
+### Set up the local development environment (follow closely)
 
 1.  **Configure Environment Variables:** 
 
