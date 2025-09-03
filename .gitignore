@@ -47,3 +47,6 @@ next-env.d.ts
 
 # build artifacts
 public/r/themes
+
+# attached_assets dir when using Replit Agent
+attached_assets
